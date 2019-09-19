@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rahul Mandal rahul.mandal@wipro.com @imrahulmandal
 
 # THANKS
 
