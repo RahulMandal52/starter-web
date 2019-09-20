@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple demo showing how to use Git and GitHub. Adding a line for Rebasing example.
+This is a simple demo showing how to use Git and GitHub. Adding a line for Rebasing example, then more changes from myfeature branch too.
 
 ## Introduction
 
